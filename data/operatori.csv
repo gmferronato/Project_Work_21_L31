@@ -1,0 +1,501 @@
+id_operatore,zona,tipo_attivita
+OP0001,Puglia,Plant coaching
+OP0002,Calabria,Diagnosi e cura fitosanitaria
+OP0003,Emilia Romagna,Progettazione e consulenza giardini esterni
+OP0004,Campania,Giardinieri a domicilio
+OP0005,Umbria,Plant coaching
+OP0006,Trentino Alto Adige,Giardinieri a domicilio
+OP0007,Liguria,Consulenza arredi interni vegetali
+OP0008,Abruzzo,Progettazione e consulenza giardini esterni
+OP0009,Sicilia,Diagnosi e cura fitosanitaria
+OP0010,Sardegna,Diagnosi e cura fitosanitaria
+OP0011,Puglia,Giardinieri a domicilio
+OP0012,Liguria,Plant coaching
+OP0013,Piemonte,Giardinieri a domicilio
+OP0014,Lombardia,Giardinieri a domicilio
+OP0015,Campania,Consulenza arredi interni vegetali
+OP0016,Sardegna,Diagnosi e cura fitosanitaria
+OP0017,Abruzzo,Giardinieri a domicilio
+OP0018,Lazio,Consulenza arredi interni vegetali
+OP0019,Campania,Diagnosi e cura fitosanitaria
+OP0020,Basilicata,Plant coaching
+OP0021,Veneto,Consulenza arredi interni vegetali
+OP0022,Liguria,Consulenza arredi interni vegetali
+OP0023,Puglia,Plant coaching
+OP0024,Liguria,Diagnosi e cura fitosanitaria
+OP0025,Lazio,Consulenza arredi interni vegetali
+OP0026,Emilia Romagna,Diagnosi e cura fitosanitaria
+OP0027,Marche,Giardinieri a domicilio
+OP0028,Valle d'Aosta,Progettazione e consulenza giardini esterni
+OP0029,Valle d'Aosta,Diagnosi e cura fitosanitaria
+OP0030,Molise,Giardinieri a domicilio
+OP0031,Marche,Giardinieri a domicilio
+OP0032,Trentino Alto Adige,Giardinieri a domicilio
+OP0033,Sardegna,Progettazione e consulenza giardini esterni
+OP0034,Lombardia,Consulenza arredi interni vegetali
+OP0035,Umbria,Diagnosi e cura fitosanitaria
+OP0036,Friuli Venezia Giulia,Plant coaching
+OP0037,Umbria,Plant coaching
+OP0038,Basilicata,Progettazione e consulenza giardini esterni
+OP0039,Puglia,Diagnosi e cura fitosanitaria
+OP0040,Molise,Plant coaching
+OP0041,Sardegna,Giardinieri a domicilio
+OP0042,Marche,Plant coaching
+OP0043,Friuli Venezia Giulia,Diagnosi e cura fitosanitaria
+OP0044,Toscana,Giardinieri a domicilio
+OP0045,Liguria,Progettazione e consulenza giardini esterni
+OP0046,Emilia Romagna,Plant coaching
+OP0047,Basilicata,Diagnosi e cura fitosanitaria
+OP0048,Sardegna,Plant coaching
+OP0049,Umbria,Diagnosi e cura fitosanitaria
+OP0050,Emilia Romagna,Plant coaching
+OP0051,Liguria,Progettazione e consulenza giardini esterni
+OP0052,Lazio,Progettazione e consulenza giardini esterni
+OP0053,Calabria,Plant coaching
+OP0054,Piemonte,Consulenza arredi interni vegetali
+OP0055,Umbria,Giardinieri a domicilio
+OP0056,Basilicata,Progettazione e consulenza giardini esterni
+OP0057,Puglia,Diagnosi e cura fitosanitaria
+OP0058,Veneto,Consulenza arredi interni vegetali
+OP0059,Calabria,Giardinieri a domicilio
+OP0060,Valle d'Aosta,Diagnosi e cura fitosanitaria
+OP0061,Lazio,Plant coaching
+OP0062,Lazio,Progettazione e consulenza giardini esterni
+OP0063,Marche,Consulenza arredi interni vegetali
+OP0064,Lazio,Giardinieri a domicilio
+OP0065,Campania,Plant coaching
+OP0066,Liguria,Diagnosi e cura fitosanitaria
+OP0067,Lazio,Plant coaching
+OP0068,Liguria,Diagnosi e cura fitosanitaria
+OP0069,Molise,Progettazione e consulenza giardini esterni
+OP0070,Puglia,Plant coaching
+OP0071,Umbria,Progettazione e consulenza giardini esterni
+OP0072,Marche,Progettazione e consulenza giardini esterni
+OP0073,Piemonte,Diagnosi e cura fitosanitaria
+OP0074,Toscana,Plant coaching
+OP0075,Campania,Plant coaching
+OP0076,Molise,Giardinieri a domicilio
+OP0077,Piemonte,Progettazione e consulenza giardini esterni
+OP0078,Sardegna,Consulenza arredi interni vegetali
+OP0079,Valle d'Aosta,Giardinieri a domicilio
+OP0080,Emilia Romagna,Consulenza arredi interni vegetali
+OP0081,Lombardia,Diagnosi e cura fitosanitaria
+OP0082,Valle d'Aosta,Diagnosi e cura fitosanitaria
+OP0083,Sardegna,Progettazione e consulenza giardini esterni
+OP0084,Emilia Romagna,Giardinieri a domicilio
+OP0085,Molise,Giardinieri a domicilio
+OP0086,Puglia,Diagnosi e cura fitosanitaria
+OP0087,Liguria,Plant coaching
+OP0088,Umbria,Progettazione e consulenza giardini esterni
+OP0089,Lombardia,Plant coaching
+OP0090,Toscana,Plant coaching
+OP0091,Friuli Venezia Giulia,Progettazione e consulenza giardini esterni
+OP0092,Friuli Venezia Giulia,Giardinieri a domicilio
+OP0093,Umbria,Plant coaching
+OP0094,Friuli Venezia Giulia,Diagnosi e cura fitosanitaria
+OP0095,Basilicata,Diagnosi e cura fitosanitaria
+OP0096,Basilicata,Consulenza arredi interni vegetali
+OP0097,Basilicata,Consulenza arredi interni vegetali
+OP0098,Sardegna,Giardinieri a domicilio
+OP0099,Liguria,Consulenza arredi interni vegetali
+OP0100,Emilia Romagna,Consulenza arredi interni vegetali
+OP0101,Lazio,Diagnosi e cura fitosanitaria
+OP0102,Sicilia,Progettazione e consulenza giardini esterni
+OP0103,Basilicata,Diagnosi e cura fitosanitaria
+OP0104,Veneto,Plant coaching
+OP0105,Toscana,Consulenza arredi interni vegetali
+OP0106,Abruzzo,Diagnosi e cura fitosanitaria
+OP0107,Umbria,Plant coaching
+OP0108,Abruzzo,Consulenza arredi interni vegetali
+OP0109,Trentino Alto Adige,Progettazione e consulenza giardini esterni
+OP0110,Umbria,Progettazione e consulenza giardini esterni
+OP0111,Abruzzo,Diagnosi e cura fitosanitaria
+OP0112,Sardegna,Giardinieri a domicilio
+OP0113,Campania,Consulenza arredi interni vegetali
+OP0114,Trentino Alto Adige,Giardinieri a domicilio
+OP0115,Liguria,Giardinieri a domicilio
+OP0116,Veneto,Diagnosi e cura fitosanitaria
+OP0117,Lombardia,Progettazione e consulenza giardini esterni
+OP0118,Lombardia,Plant coaching
+OP0119,Calabria,Progettazione e consulenza giardini esterni
+OP0120,Puglia,Plant coaching
+OP0121,Valle d'Aosta,Giardinieri a domicilio
+OP0122,Liguria,Progettazione e consulenza giardini esterni
+OP0123,Calabria,Consulenza arredi interni vegetali
+OP0124,Calabria,Plant coaching
+OP0125,Puglia,Plant coaching
+OP0126,Umbria,Plant coaching
+OP0127,Basilicata,Consulenza arredi interni vegetali
+OP0128,Friuli Venezia Giulia,Consulenza arredi interni vegetali
+OP0129,Toscana,Plant coaching
+OP0130,Molise,Diagnosi e cura fitosanitaria
+OP0131,Campania,Diagnosi e cura fitosanitaria
+OP0132,Basilicata,Giardinieri a domicilio
+OP0133,Lazio,Diagnosi e cura fitosanitaria
+OP0134,Toscana,Progettazione e consulenza giardini esterni
+OP0135,Basilicata,Consulenza arredi interni vegetali
+OP0136,Lombardia,Diagnosi e cura fitosanitaria
+OP0137,Valle d'Aosta,Consulenza arredi interni vegetali
+OP0138,Friuli Venezia Giulia,Progettazione e consulenza giardini esterni
+OP0139,Abruzzo,Giardinieri a domicilio
+OP0140,Valle d'Aosta,Giardinieri a domicilio
+OP0141,Puglia,Consulenza arredi interni vegetali
+OP0142,Marche,Giardinieri a domicilio
+OP0143,Valle d'Aosta,Giardinieri a domicilio
+OP0144,Valle d'Aosta,Plant coaching
+OP0145,Umbria,Progettazione e consulenza giardini esterni
+OP0146,Puglia,Giardinieri a domicilio
+OP0147,Calabria,Diagnosi e cura fitosanitaria
+OP0148,Piemonte,Consulenza arredi interni vegetali
+OP0149,Campania,Plant coaching
+OP0150,Liguria,Consulenza arredi interni vegetali
+OP0151,Molise,Diagnosi e cura fitosanitaria
+OP0152,Veneto,Diagnosi e cura fitosanitaria
+OP0153,Puglia,Progettazione e consulenza giardini esterni
+OP0154,Abruzzo,Progettazione e consulenza giardini esterni
+OP0155,Sicilia,Plant coaching
+OP0156,Liguria,Progettazione e consulenza giardini esterni
+OP0157,Umbria,Plant coaching
+OP0158,Sardegna,Giardinieri a domicilio
+OP0159,Valle d'Aosta,Plant coaching
+OP0160,Calabria,Diagnosi e cura fitosanitaria
+OP0161,Marche,Giardinieri a domicilio
+OP0162,Calabria,Consulenza arredi interni vegetali
+OP0163,Lombardia,Giardinieri a domicilio
+OP0164,Puglia,Giardinieri a domicilio
+OP0165,Puglia,Progettazione e consulenza giardini esterni
+OP0166,Piemonte,Consulenza arredi interni vegetali
+OP0167,Calabria,Consulenza arredi interni vegetali
+OP0168,Marche,Plant coaching
+OP0169,Piemonte,Progettazione e consulenza giardini esterni
+OP0170,Campania,Giardinieri a domicilio
+OP0171,Calabria,Giardinieri a domicilio
+OP0172,Sardegna,Plant coaching
+OP0173,Umbria,Diagnosi e cura fitosanitaria
+OP0174,Trentino Alto Adige,Plant coaching
+OP0175,Campania,Consulenza arredi interni vegetali
+OP0176,Calabria,Progettazione e consulenza giardini esterni
+OP0177,Umbria,Consulenza arredi interni vegetali
+OP0178,Veneto,Diagnosi e cura fitosanitaria
+OP0179,Molise,Plant coaching
+OP0180,Abruzzo,Progettazione e consulenza giardini esterni
+OP0181,Sardegna,Plant coaching
+OP0182,Calabria,Diagnosi e cura fitosanitaria
+OP0183,Liguria,Diagnosi e cura fitosanitaria
+OP0184,Trentino Alto Adige,Giardinieri a domicilio
+OP0185,Puglia,Giardinieri a domicilio
+OP0186,Emilia Romagna,Progettazione e consulenza giardini esterni
+OP0187,Marche,Progettazione e consulenza giardini esterni
+OP0188,Toscana,Giardinieri a domicilio
+OP0189,Calabria,Giardinieri a domicilio
+OP0190,Sardegna,Progettazione e consulenza giardini esterni
+OP0191,Sardegna,Progettazione e consulenza giardini esterni
+OP0192,Toscana,Consulenza arredi interni vegetali
+OP0193,Piemonte,Progettazione e consulenza giardini esterni
+OP0194,Liguria,Plant coaching
+OP0195,Veneto,Diagnosi e cura fitosanitaria
+OP0196,Lazio,Plant coaching
+OP0197,Campania,Giardinieri a domicilio
+OP0198,Marche,Consulenza arredi interni vegetali
+OP0199,Puglia,Progettazione e consulenza giardini esterni
+OP0200,Veneto,Plant coaching
+OP0201,Molise,Plant coaching
+OP0202,Molise,Plant coaching
+OP0203,Veneto,Giardinieri a domicilio
+OP0204,Marche,Progettazione e consulenza giardini esterni
+OP0205,Veneto,Giardinieri a domicilio
+OP0206,Toscana,Progettazione e consulenza giardini esterni
+OP0207,Friuli Venezia Giulia,Plant coaching
+OP0208,Molise,Progettazione e consulenza giardini esterni
+OP0209,Toscana,Diagnosi e cura fitosanitaria
+OP0210,Liguria,Progettazione e consulenza giardini esterni
+OP0211,Puglia,Progettazione e consulenza giardini esterni
+OP0212,Puglia,Progettazione e consulenza giardini esterni
+OP0213,Campania,Diagnosi e cura fitosanitaria
+OP0214,Lazio,Diagnosi e cura fitosanitaria
+OP0215,Umbria,Giardinieri a domicilio
+OP0216,Umbria,Consulenza arredi interni vegetali
+OP0217,Sicilia,Giardinieri a domicilio
+OP0218,Sicilia,Progettazione e consulenza giardini esterni
+OP0219,Calabria,Plant coaching
+OP0220,Toscana,Giardinieri a domicilio
+OP0221,Marche,Giardinieri a domicilio
+OP0222,Lombardia,Giardinieri a domicilio
+OP0223,Sardegna,Plant coaching
+OP0224,Calabria,Plant coaching
+OP0225,Veneto,Plant coaching
+OP0226,Valle d'Aosta,Plant coaching
+OP0227,Umbria,Diagnosi e cura fitosanitaria
+OP0228,Sardegna,Diagnosi e cura fitosanitaria
+OP0229,Basilicata,Progettazione e consulenza giardini esterni
+OP0230,Umbria,Diagnosi e cura fitosanitaria
+OP0231,Calabria,Consulenza arredi interni vegetali
+OP0232,Liguria,Progettazione e consulenza giardini esterni
+OP0233,Friuli Venezia Giulia,Diagnosi e cura fitosanitaria
+OP0234,Basilicata,Diagnosi e cura fitosanitaria
+OP0235,Puglia,Progettazione e consulenza giardini esterni
+OP0236,Sardegna,Consulenza arredi interni vegetali
+OP0237,Abruzzo,Consulenza arredi interni vegetali
+OP0238,Lombardia,Giardinieri a domicilio
+OP0239,Trentino Alto Adige,Diagnosi e cura fitosanitaria
+OP0240,Umbria,Diagnosi e cura fitosanitaria
+OP0241,Valle d'Aosta,Giardinieri a domicilio
+OP0242,Sicilia,Progettazione e consulenza giardini esterni
+OP0243,Puglia,Plant coaching
+OP0244,Valle d'Aosta,Diagnosi e cura fitosanitaria
+OP0245,Emilia Romagna,Progettazione e consulenza giardini esterni
+OP0246,Abruzzo,Plant coaching
+OP0247,Campania,Progettazione e consulenza giardini esterni
+OP0248,Sardegna,Consulenza arredi interni vegetali
+OP0249,Campania,Giardinieri a domicilio
+OP0250,Piemonte,Progettazione e consulenza giardini esterni
+OP0251,Molise,Plant coaching
+OP0252,Lazio,Diagnosi e cura fitosanitaria
+OP0253,Toscana,Progettazione e consulenza giardini esterni
+OP0254,Toscana,Consulenza arredi interni vegetali
+OP0255,Sicilia,Plant coaching
+OP0256,Molise,Consulenza arredi interni vegetali
+OP0257,Marche,Consulenza arredi interni vegetali
+OP0258,Campania,Consulenza arredi interni vegetali
+OP0259,Molise,Consulenza arredi interni vegetali
+OP0260,Friuli Venezia Giulia,Giardinieri a domicilio
+OP0261,Trentino Alto Adige,Giardinieri a domicilio
+OP0262,Umbria,Giardinieri a domicilio
+OP0263,Molise,Diagnosi e cura fitosanitaria
+OP0264,Sardegna,Plant coaching
+OP0265,Liguria,Plant coaching
+OP0266,Friuli Venezia Giulia,Giardinieri a domicilio
+OP0267,Sardegna,Plant coaching
+OP0268,Abruzzo,Diagnosi e cura fitosanitaria
+OP0269,Lazio,Plant coaching
+OP0270,Valle d'Aosta,Plant coaching
+OP0271,Puglia,Consulenza arredi interni vegetali
+OP0272,Lazio,Giardinieri a domicilio
+OP0273,Lombardia,Consulenza arredi interni vegetali
+OP0274,Valle d'Aosta,Consulenza arredi interni vegetali
+OP0275,Umbria,Giardinieri a domicilio
+OP0276,Piemonte,Progettazione e consulenza giardini esterni
+OP0277,Lazio,Plant coaching
+OP0278,Campania,Progettazione e consulenza giardini esterni
+OP0279,Toscana,Diagnosi e cura fitosanitaria
+OP0280,Molise,Diagnosi e cura fitosanitaria
+OP0281,Puglia,Diagnosi e cura fitosanitaria
+OP0282,Puglia,Diagnosi e cura fitosanitaria
+OP0283,Campania,Progettazione e consulenza giardini esterni
+OP0284,Piemonte,Plant coaching
+OP0285,Veneto,Giardinieri a domicilio
+OP0286,Marche,Diagnosi e cura fitosanitaria
+OP0287,Valle d'Aosta,Consulenza arredi interni vegetali
+OP0288,Emilia Romagna,Progettazione e consulenza giardini esterni
+OP0289,Campania,Giardinieri a domicilio
+OP0290,Marche,Consulenza arredi interni vegetali
+OP0291,Friuli Venezia Giulia,Progettazione e consulenza giardini esterni
+OP0292,Emilia Romagna,Diagnosi e cura fitosanitaria
+OP0293,Puglia,Plant coaching
+OP0294,Veneto,Giardinieri a domicilio
+OP0295,Valle d'Aosta,Plant coaching
+OP0296,Sardegna,Giardinieri a domicilio
+OP0297,Toscana,Diagnosi e cura fitosanitaria
+OP0298,Friuli Venezia Giulia,Diagnosi e cura fitosanitaria
+OP0299,Friuli Venezia Giulia,Plant coaching
+OP0300,Marche,Giardinieri a domicilio
+OP0301,Friuli Venezia Giulia,Progettazione e consulenza giardini esterni
+OP0302,Sicilia,Diagnosi e cura fitosanitaria
+OP0303,Basilicata,Progettazione e consulenza giardini esterni
+OP0304,Abruzzo,Plant coaching
+OP0305,Emilia Romagna,Giardinieri a domicilio
+OP0306,Puglia,Diagnosi e cura fitosanitaria
+OP0307,Trentino Alto Adige,Plant coaching
+OP0308,Sardegna,Plant coaching
+OP0309,Sardegna,Plant coaching
+OP0310,Toscana,Giardinieri a domicilio
+OP0311,Calabria,Diagnosi e cura fitosanitaria
+OP0312,Abruzzo,Giardinieri a domicilio
+OP0313,Marche,Consulenza arredi interni vegetali
+OP0314,Lombardia,Giardinieri a domicilio
+OP0315,Umbria,Progettazione e consulenza giardini esterni
+OP0316,Friuli Venezia Giulia,Plant coaching
+OP0317,Valle d'Aosta,Plant coaching
+OP0318,Umbria,Diagnosi e cura fitosanitaria
+OP0319,Campania,Diagnosi e cura fitosanitaria
+OP0320,Campania,Progettazione e consulenza giardini esterni
+OP0321,Umbria,Progettazione e consulenza giardini esterni
+OP0322,Umbria,Consulenza arredi interni vegetali
+OP0323,Sicilia,Diagnosi e cura fitosanitaria
+OP0324,Lazio,Plant coaching
+OP0325,Campania,Giardinieri a domicilio
+OP0326,Marche,Consulenza arredi interni vegetali
+OP0327,Sicilia,Progettazione e consulenza giardini esterni
+OP0328,Piemonte,Consulenza arredi interni vegetali
+OP0329,Sicilia,Consulenza arredi interni vegetali
+OP0330,Liguria,Giardinieri a domicilio
+OP0331,Valle d'Aosta,Progettazione e consulenza giardini esterni
+OP0332,Veneto,Plant coaching
+OP0333,Friuli Venezia Giulia,Diagnosi e cura fitosanitaria
+OP0334,Emilia Romagna,Giardinieri a domicilio
+OP0335,Lazio,Consulenza arredi interni vegetali
+OP0336,Valle d'Aosta,Progettazione e consulenza giardini esterni
+OP0337,Umbria,Progettazione e consulenza giardini esterni
+OP0338,Veneto,Diagnosi e cura fitosanitaria
+OP0339,Friuli Venezia Giulia,Progettazione e consulenza giardini esterni
+OP0340,Marche,Progettazione e consulenza giardini esterni
+OP0341,Valle d'Aosta,Progettazione e consulenza giardini esterni
+OP0342,Trentino Alto Adige,Consulenza arredi interni vegetali
+OP0343,Emilia Romagna,Plant coaching
+OP0344,Basilicata,Progettazione e consulenza giardini esterni
+OP0345,Emilia Romagna,Giardinieri a domicilio
+OP0346,Liguria,Giardinieri a domicilio
+OP0347,Molise,Giardinieri a domicilio
+OP0348,Puglia,Plant coaching
+OP0349,Emilia Romagna,Diagnosi e cura fitosanitaria
+OP0350,Lombardia,Plant coaching
+OP0351,Puglia,Plant coaching
+OP0352,Calabria,Consulenza arredi interni vegetali
+OP0353,Puglia,Diagnosi e cura fitosanitaria
+OP0354,Lombardia,Progettazione e consulenza giardini esterni
+OP0355,Sicilia,Plant coaching
+OP0356,Molise,Diagnosi e cura fitosanitaria
+OP0357,Abruzzo,Consulenza arredi interni vegetali
+OP0358,Sicilia,Progettazione e consulenza giardini esterni
+OP0359,Calabria,Diagnosi e cura fitosanitaria
+OP0360,Puglia,Giardinieri a domicilio
+OP0361,Sardegna,Giardinieri a domicilio
+OP0362,Toscana,Progettazione e consulenza giardini esterni
+OP0363,Molise,Progettazione e consulenza giardini esterni
+OP0364,Molise,Diagnosi e cura fitosanitaria
+OP0365,Valle d'Aosta,Giardinieri a domicilio
+OP0366,Valle d'Aosta,Plant coaching
+OP0367,Molise,Consulenza arredi interni vegetali
+OP0368,Basilicata,Consulenza arredi interni vegetali
+OP0369,Sicilia,Consulenza arredi interni vegetali
+OP0370,Campania,Giardinieri a domicilio
+OP0371,Sicilia,Plant coaching
+OP0372,Abruzzo,Plant coaching
+OP0373,Lazio,Giardinieri a domicilio
+OP0374,Marche,Giardinieri a domicilio
+OP0375,Lombardia,Consulenza arredi interni vegetali
+OP0376,Piemonte,Progettazione e consulenza giardini esterni
+OP0377,Calabria,Progettazione e consulenza giardini esterni
+OP0378,Friuli Venezia Giulia,Consulenza arredi interni vegetali
+OP0379,Puglia,Progettazione e consulenza giardini esterni
+OP0380,Liguria,Plant coaching
+OP0381,Calabria,Consulenza arredi interni vegetali
+OP0382,Abruzzo,Giardinieri a domicilio
+OP0383,Toscana,Consulenza arredi interni vegetali
+OP0384,Emilia Romagna,Diagnosi e cura fitosanitaria
+OP0385,Liguria,Diagnosi e cura fitosanitaria
+OP0386,Sicilia,Consulenza arredi interni vegetali
+OP0387,Abruzzo,Progettazione e consulenza giardini esterni
+OP0388,Campania,Plant coaching
+OP0389,Emilia Romagna,Plant coaching
+OP0390,Calabria,Giardinieri a domicilio
+OP0391,Puglia,Consulenza arredi interni vegetali
+OP0392,Campania,Consulenza arredi interni vegetali
+OP0393,Molise,Progettazione e consulenza giardini esterni
+OP0394,Marche,Giardinieri a domicilio
+OP0395,Puglia,Giardinieri a domicilio
+OP0396,Emilia Romagna,Consulenza arredi interni vegetali
+OP0397,Trentino Alto Adige,Diagnosi e cura fitosanitaria
+OP0398,Abruzzo,Diagnosi e cura fitosanitaria
+OP0399,Friuli Venezia Giulia,Plant coaching
+OP0400,Piemonte,Giardinieri a domicilio
+OP0401,Emilia Romagna,Plant coaching
+OP0402,Veneto,Plant coaching
+OP0403,Lazio,Consulenza arredi interni vegetali
+OP0404,Campania,Giardinieri a domicilio
+OP0405,Campania,Diagnosi e cura fitosanitaria
+OP0406,Puglia,Progettazione e consulenza giardini esterni
+OP0407,Sardegna,Progettazione e consulenza giardini esterni
+OP0408,Emilia Romagna,Giardinieri a domicilio
+OP0409,Lombardia,Consulenza arredi interni vegetali
+OP0410,Liguria,Diagnosi e cura fitosanitaria
+OP0411,Veneto,Diagnosi e cura fitosanitaria
+OP0412,Veneto,Progettazione e consulenza giardini esterni
+OP0413,Abruzzo,Progettazione e consulenza giardini esterni
+OP0414,Lazio,Diagnosi e cura fitosanitaria
+OP0415,Veneto,Diagnosi e cura fitosanitaria
+OP0416,Lazio,Plant coaching
+OP0417,Marche,Consulenza arredi interni vegetali
+OP0418,Liguria,Plant coaching
+OP0419,Puglia,Consulenza arredi interni vegetali
+OP0420,Liguria,Plant coaching
+OP0421,Veneto,Consulenza arredi interni vegetali
+OP0422,Trentino Alto Adige,Consulenza arredi interni vegetali
+OP0423,Piemonte,Progettazione e consulenza giardini esterni
+OP0424,Emilia Romagna,Plant coaching
+OP0425,Valle d'Aosta,Plant coaching
+OP0426,Piemonte,Diagnosi e cura fitosanitaria
+OP0427,Friuli Venezia Giulia,Plant coaching
+OP0428,Calabria,Consulenza arredi interni vegetali
+OP0429,Valle d'Aosta,Consulenza arredi interni vegetali
+OP0430,Abruzzo,Progettazione e consulenza giardini esterni
+OP0431,Lazio,Consulenza arredi interni vegetali
+OP0432,Basilicata,Plant coaching
+OP0433,Trentino Alto Adige,Progettazione e consulenza giardini esterni
+OP0434,Trentino Alto Adige,Plant coaching
+OP0435,Sardegna,Plant coaching
+OP0436,Calabria,Diagnosi e cura fitosanitaria
+OP0437,Umbria,Diagnosi e cura fitosanitaria
+OP0438,Emilia Romagna,Progettazione e consulenza giardini esterni
+OP0439,Calabria,Progettazione e consulenza giardini esterni
+OP0440,Calabria,Diagnosi e cura fitosanitaria
+OP0441,Lazio,Giardinieri a domicilio
+OP0442,Umbria,Progettazione e consulenza giardini esterni
+OP0443,Puglia,Diagnosi e cura fitosanitaria
+OP0444,Calabria,Progettazione e consulenza giardini esterni
+OP0445,Sardegna,Giardinieri a domicilio
+OP0446,Basilicata,Giardinieri a domicilio
+OP0447,Calabria,Plant coaching
+OP0448,Campania,Plant coaching
+OP0449,Veneto,Diagnosi e cura fitosanitaria
+OP0450,Basilicata,Progettazione e consulenza giardini esterni
+OP0451,Friuli Venezia Giulia,Consulenza arredi interni vegetali
+OP0452,Abruzzo,Giardinieri a domicilio
+OP0453,Abruzzo,Giardinieri a domicilio
+OP0454,Toscana,Progettazione e consulenza giardini esterni
+OP0455,Trentino Alto Adige,Diagnosi e cura fitosanitaria
+OP0456,Lombardia,Giardinieri a domicilio
+OP0457,Piemonte,Giardinieri a domicilio
+OP0458,Lombardia,Consulenza arredi interni vegetali
+OP0459,Abruzzo,Progettazione e consulenza giardini esterni
+OP0460,Sardegna,Progettazione e consulenza giardini esterni
+OP0461,Trentino Alto Adige,Consulenza arredi interni vegetali
+OP0462,Lombardia,Diagnosi e cura fitosanitaria
+OP0463,Calabria,Plant coaching
+OP0464,Sicilia,Diagnosi e cura fitosanitaria
+OP0465,Piemonte,Consulenza arredi interni vegetali
+OP0466,Toscana,Diagnosi e cura fitosanitaria
+OP0467,Friuli Venezia Giulia,Progettazione e consulenza giardini esterni
+OP0468,Friuli Venezia Giulia,Progettazione e consulenza giardini esterni
+OP0469,Campania,Diagnosi e cura fitosanitaria
+OP0470,Campania,Giardinieri a domicilio
+OP0471,Trentino Alto Adige,Consulenza arredi interni vegetali
+OP0472,Basilicata,Consulenza arredi interni vegetali
+OP0473,Liguria,Consulenza arredi interni vegetali
+OP0474,Toscana,Progettazione e consulenza giardini esterni
+OP0475,Puglia,Giardinieri a domicilio
+OP0476,Friuli Venezia Giulia,Consulenza arredi interni vegetali
+OP0477,Umbria,Plant coaching
+OP0478,Liguria,Progettazione e consulenza giardini esterni
+OP0479,Liguria,Plant coaching
+OP0480,Molise,Progettazione e consulenza giardini esterni
+OP0481,Calabria,Diagnosi e cura fitosanitaria
+OP0482,Piemonte,Consulenza arredi interni vegetali
+OP0483,Trentino Alto Adige,Consulenza arredi interni vegetali
+OP0484,Friuli Venezia Giulia,Giardinieri a domicilio
+OP0485,Trentino Alto Adige,Consulenza arredi interni vegetali
+OP0486,Puglia,Consulenza arredi interni vegetali
+OP0487,Sicilia,Progettazione e consulenza giardini esterni
+OP0488,Marche,Progettazione e consulenza giardini esterni
+OP0489,Calabria,Diagnosi e cura fitosanitaria
+OP0490,Sicilia,Consulenza arredi interni vegetali
+OP0491,Piemonte,Giardinieri a domicilio
+OP0492,Marche,Diagnosi e cura fitosanitaria
+OP0493,Marche,Diagnosi e cura fitosanitaria
+OP0494,Liguria,Plant coaching
+OP0495,Piemonte,Diagnosi e cura fitosanitaria
+OP0496,Toscana,Giardinieri a domicilio
+OP0497,Umbria,Giardinieri a domicilio
+OP0498,Emilia Romagna,Consulenza arredi interni vegetali
+OP0499,Sardegna,Consulenza arredi interni vegetali
+OP0500,Liguria,Diagnosi e cura fitosanitaria

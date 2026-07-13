@@ -1,0 +1,351 @@
+id_fornitore,nome,categoria_fornitura,zona
+FR0001,Irrigazione Caracciolo S.p.A.,Sistemi di irrigazione,Friuli Venezia Giulia
+FR0002,Vivaio Asmundo S.a.s.,Piante da esterno / da giardino,Puglia
+FR0003,Irrigazione Leone S.p.A.,Sistemi di irrigazione,Toscana
+FR0004,Sistemi Irrigui Gotti S.p.A.,Sistemi di irrigazione,Sicilia
+FR0005,Attrezzature Garden Garozzo & Figli,Attrezzature e materiali da giardinaggio,Abruzzo
+FR0006,Agrochimica Cilea S.a.s.,"Terriccio, fertilizzanti e prodotti fitosanitari",Friuli Venezia Giulia
+FR0007,Florovivaismo Camicione & Figli,Piante da interno,Valle d'Aosta
+FR0008,Utensileria Verdone S.n.c.,Attrezzature e materiali da giardinaggio,Lombardia
+FR0009,Agrochimica Broschi S.p.A.,"Terriccio, fertilizzanti e prodotti fitosanitari",Puglia
+FR0010,Azienda Fitosanitaria Querini S.p.A.,"Terriccio, fertilizzanti e prodotti fitosanitari",Puglia
+FR0011,Idroverde Balbi S.a.s.,Sistemi di irrigazione,Marche
+FR0012,Ferramenta Verde Baggio S.n.c.,Attrezzature e materiali da giardinaggio,Lombardia
+FR0013,Serra Cabrini S.r.l.,Piante da interno,Veneto
+FR0014,Agrochimica Galeati S.p.A.,"Terriccio, fertilizzanti e prodotti fitosanitari",Veneto
+FR0015,Ferramenta Verde Giannini S.p.A.,Attrezzature e materiali da giardinaggio,Veneto
+FR0016,Utensileria Tirabassi S.p.A.,Attrezzature e materiali da giardinaggio,Campania
+FR0017,Florovivaismo Avogadro S.n.c.,Piante da interno,Basilicata
+FR0018,Idroverde Zamorani S.p.A.,Sistemi di irrigazione,Calabria
+FR0019,Attrezzature Garden Filangieri S.n.c.,Attrezzature e materiali da giardinaggio,Friuli Venezia Giulia
+FR0020,Vivaio Verdone S.a.s.,Piante da esterno / da giardino,Piemonte
+FR0021,Irrigazione Puccini & Figli,Sistemi di irrigazione,Friuli Venezia Giulia
+FR0022,Attrezzature Garden Galuppi & Figli,Attrezzature e materiali da giardinaggio,Molise
+FR0023,Florovivaismo Salandra S.r.l.,Piante da interno,Emilia Romagna
+FR0024,Garden Center Lettiere S.n.c.,Piante da esterno / da giardino,Umbria
+FR0025,Ferramenta Verde Alboni S.n.c.,Attrezzature e materiali da giardinaggio,Abruzzo
+FR0026,Utensileria Cuomo S.r.l.,Attrezzature e materiali da giardinaggio,Sicilia
+FR0027,Utensileria Raimondi & Figli,Attrezzature e materiali da giardinaggio,Valle d'Aosta
+FR0028,Agriforniture Morpurgo & Figli,"Terriccio, fertilizzanti e prodotti fitosanitari",Campania
+FR0029,Floricoltura Lettiere S.r.l.,Piante da esterno / da giardino,Veneto
+FR0030,Idroverde Cremonesi S.a.s.,Sistemi di irrigazione,Liguria
+FR0031,Serra Gabrieli S.n.c.,Piante da interno,Marche
+FR0032,Azienda Fitosanitaria Morandini S.p.A.,"Terriccio, fertilizzanti e prodotti fitosanitari",Basilicata
+FR0033,Florovivaismo Camicione S.n.c.,Piante da interno,Campania
+FR0034,Vivaio Cabibbo S.a.s.,Piante da interno,Emilia Romagna
+FR0035,Agrochimica Parmitano & Figli,"Terriccio, fertilizzanti e prodotti fitosanitari",Umbria
+FR0036,Agriforniture Cagnin S.p.A.,"Terriccio, fertilizzanti e prodotti fitosanitari",Sardegna
+FR0037,Florovivaismo Oliboni S.a.s.,Piante da interno,Sardegna
+FR0038,Ferramenta Verde Muratori & Figli,Attrezzature e materiali da giardinaggio,Lazio
+FR0039,Agrochimica Iannucci S.p.A.,"Terriccio, fertilizzanti e prodotti fitosanitari",Piemonte
+FR0040,Serra Battaglia & Figli,Piante da interno,Umbria
+FR0041,Ferramenta Verde Sauro S.n.c.,Attrezzature e materiali da giardinaggio,Lombardia
+FR0042,Vivaio Valguarnera S.n.c.,Piante da esterno / da giardino,Calabria
+FR0043,Garden Center Cattaneo S.a.s.,Piante da esterno / da giardino,Abruzzo
+FR0044,Florovivaismo Pareto S.p.A.,Piante da interno,Emilia Romagna
+FR0045,Sistemi Irrigui Bosurgi S.r.l.,Sistemi di irrigazione,Umbria
+FR0046,Garden Center Villarosa S.p.A.,Piante da esterno / da giardino,Liguria
+FR0047,Ferramenta Verde Magnani S.a.s.,Attrezzature e materiali da giardinaggio,Abruzzo
+FR0048,Ferramenta Verde Opizzi S.p.A.,Attrezzature e materiali da giardinaggio,Umbria
+FR0049,Ferramenta Verde Ferrabosco S.r.l.,Attrezzature e materiali da giardinaggio,Abruzzo
+FR0050,Vivaio Bonanno & Figli,Piante da esterno / da giardino,Liguria
+FR0051,Idroverde Beccheria S.r.l.,Sistemi di irrigazione,Friuli Venezia Giulia
+FR0052,Ferramenta Verde Gentilini S.p.A.,Attrezzature e materiali da giardinaggio,Sardegna
+FR0053,Sistemi Irrigui Luxardo S.r.l.,Sistemi di irrigazione,Toscana
+FR0054,Agrochimica Bottaro S.a.s.,"Terriccio, fertilizzanti e prodotti fitosanitari",Valle d'Aosta
+FR0055,Florovivaismo Giannini S.a.s.,Piante da interno,Liguria
+FR0056,Sistemi Irrigui Callegaro S.a.s.,Sistemi di irrigazione,Marche
+FR0057,Agriforniture Parmitano S.r.l.,"Terriccio, fertilizzanti e prodotti fitosanitari",Basilicata
+FR0058,Agrochimica Lettiere S.n.c.,"Terriccio, fertilizzanti e prodotti fitosanitari",Campania
+FR0059,Agriforniture Sanguineti S.n.c.,"Terriccio, fertilizzanti e prodotti fitosanitari",Calabria
+FR0060,Florovivaismo Ossani S.a.s.,Piante da interno,Emilia Romagna
+FR0061,Vivaio Cuzzocrea & Figli,Piante da interno,Veneto
+FR0062,Irrigazione Paganini & Figli,Sistemi di irrigazione,Puglia
+FR0063,Irrigazione Norbiato & Figli,Sistemi di irrigazione,Sicilia
+FR0064,Irrigazione Foscari S.n.c.,Sistemi di irrigazione,Campania
+FR0065,Serra Interiano S.a.s.,Piante da interno,Lazio
+FR0066,Agrochimica Bongiorno S.p.A.,"Terriccio, fertilizzanti e prodotti fitosanitari",Sardegna
+FR0067,Attrezzature Garden Donini S.n.c.,Attrezzature e materiali da giardinaggio,Sardegna
+FR0068,Florovivaismo Udinese S.n.c.,Piante da interno,Molise
+FR0069,Attrezzature Garden Gotti S.p.A.,Attrezzature e materiali da giardinaggio,Toscana
+FR0070,Vivaio Dalla S.r.l.,Piante da interno,Calabria
+FR0071,Azienda Fitosanitaria Scamarcio & Figli,"Terriccio, fertilizzanti e prodotti fitosanitari",Emilia Romagna
+FR0072,Sistemi Irrigui Parisi S.a.s.,Sistemi di irrigazione,Umbria
+FR0073,Idroverde Jilani S.r.l.,Sistemi di irrigazione,Sardegna
+FR0074,Utensileria Volta S.n.c.,Attrezzature e materiali da giardinaggio,Basilicata
+FR0075,Utensileria Galilei & Figli,Attrezzature e materiali da giardinaggio,Piemonte
+FR0076,Serra Mocenigo S.a.s.,Piante da interno,Lazio
+FR0077,Garden Center Bertolucci S.n.c.,Piante da esterno / da giardino,Liguria
+FR0078,Florovivaismo Giacconi S.a.s.,Piante da interno,Piemonte
+FR0079,Florovivaismo Balbi S.a.s.,Piante da interno,Liguria
+FR0080,Agriforniture Mennea S.a.s.,"Terriccio, fertilizzanti e prodotti fitosanitari",Veneto
+FR0081,Sistemi Irrigui Pietrangeli S.a.s.,Sistemi di irrigazione,Lombardia
+FR0082,Vivaio Interminelli & Figli,Piante da interno,Marche
+FR0083,Attrezzature Garden Boezio S.r.l.,Attrezzature e materiali da giardinaggio,Friuli Venezia Giulia
+FR0084,Garden Center Franceschi S.n.c.,Piante da esterno / da giardino,Calabria
+FR0085,Garden Center Zola S.r.l.,Piante da esterno / da giardino,Calabria
+FR0086,Sistemi Irrigui Medici S.n.c.,Sistemi di irrigazione,Sardegna
+FR0087,Agrochimica Frescobaldi S.p.A.,"Terriccio, fertilizzanti e prodotti fitosanitari",Piemonte
+FR0088,Utensileria Tarchetti & Figli,Attrezzature e materiali da giardinaggio,Valle d'Aosta
+FR0089,Sistemi Irrigui Petrassi S.r.l.,Sistemi di irrigazione,Emilia Romagna
+FR0090,Garden Center Sauli S.r.l.,Piante da esterno / da giardino,Calabria
+FR0091,Attrezzature Garden Cocci S.n.c.,Attrezzature e materiali da giardinaggio,Toscana
+FR0092,Idroverde Iannuzzi S.n.c.,Sistemi di irrigazione,Lombardia
+FR0093,Garden Center Cilea S.r.l.,Piante da esterno / da giardino,Piemonte
+FR0094,Azienda Fitosanitaria Gradenigo & Figli,"Terriccio, fertilizzanti e prodotti fitosanitari",Valle d'Aosta
+FR0095,Agriforniture Zamorani & Figli,"Terriccio, fertilizzanti e prodotti fitosanitari",Basilicata
+FR0096,Floricoltura Vasari S.a.s.,Piante da esterno / da giardino,Basilicata
+FR0097,Vivaio Iadanza & Figli,Piante da interno,Lazio
+FR0098,Floricoltura Renzi & Figli,Piante da esterno / da giardino,Molise
+FR0099,Vivaio Piane S.n.c.,Piante da interno,Sardegna
+FR0100,Vivaio Orengo S.n.c.,Piante da esterno / da giardino,Umbria
+FR0101,Garden Center Galilei S.a.s.,Piante da esterno / da giardino,Piemonte
+FR0102,Florovivaismo Cicilia S.r.l.,Piante da interno,Sardegna
+FR0103,Florovivaismo Tommaseo S.r.l.,Piante da interno,Molise
+FR0104,Idroverde Taccola S.a.s.,Sistemi di irrigazione,Puglia
+FR0105,Agrochimica Burcardo S.r.l.,"Terriccio, fertilizzanti e prodotti fitosanitari",Puglia
+FR0106,Florovivaismo Bellini S.p.A.,Piante da interno,Veneto
+FR0107,Agriforniture Capecchi & Figli,"Terriccio, fertilizzanti e prodotti fitosanitari",Calabria
+FR0108,Azienda Fitosanitaria Correr S.p.A.,"Terriccio, fertilizzanti e prodotti fitosanitari",Sardegna
+FR0109,Idroverde Curatoli S.a.s.,Sistemi di irrigazione,Calabria
+FR0110,Agrochimica Querini & Figli,"Terriccio, fertilizzanti e prodotti fitosanitari",Liguria
+FR0111,Ferramenta Verde Boccaccio S.r.l.,Attrezzature e materiali da giardinaggio,Trentino Alto Adige
+FR0112,Serra Pavanello S.a.s.,Piante da interno,Lazio
+FR0113,Attrezzature Garden Paruta S.p.A.,Attrezzature e materiali da giardinaggio,Liguria
+FR0114,Vivaio Scialpi & Figli,Piante da interno,Lazio
+FR0115,Garden Center Trupiano S.p.A.,Piante da esterno / da giardino,Calabria
+FR0116,Garden Center Gregorio S.n.c.,Piante da esterno / da giardino,Sicilia
+FR0117,Irrigazione Visconti S.n.c.,Sistemi di irrigazione,Valle d'Aosta
+FR0118,Idroverde Amato & Figli,Sistemi di irrigazione,Emilia Romagna
+FR0119,Azienda Fitosanitaria Carocci S.n.c.,"Terriccio, fertilizzanti e prodotti fitosanitari",Sicilia
+FR0120,Attrezzature Garden Valier S.a.s.,Attrezzature e materiali da giardinaggio,Basilicata
+FR0121,Utensileria Interiano S.r.l.,Attrezzature e materiali da giardinaggio,Marche
+FR0122,Agrochimica Morpurgo S.r.l.,"Terriccio, fertilizzanti e prodotti fitosanitari",Basilicata
+FR0123,Attrezzature Garden Caracciolo S.r.l.,Attrezzature e materiali da giardinaggio,Calabria
+FR0124,Irrigazione Magrassi S.a.s.,Sistemi di irrigazione,Puglia
+FR0125,Agriforniture Rizzoli S.a.s.,"Terriccio, fertilizzanti e prodotti fitosanitari",Basilicata
+FR0126,Agriforniture Cuda S.p.A.,"Terriccio, fertilizzanti e prodotti fitosanitari",Molise
+FR0127,Idroverde Sansoni S.a.s.,Sistemi di irrigazione,Emilia Romagna
+FR0128,Florovivaismo Adinolfi S.r.l.,Piante da interno,Molise
+FR0129,Serra Iannelli S.p.A.,Piante da interno,Basilicata
+FR0130,Garden Center Tasca S.n.c.,Piante da esterno / da giardino,Sicilia
+FR0131,Irrigazione Emo S.a.s.,Sistemi di irrigazione,Friuli Venezia Giulia
+FR0132,Attrezzature Garden Tomaselli & Figli,Attrezzature e materiali da giardinaggio,Puglia
+FR0133,Agrochimica Canali S.a.s.,"Terriccio, fertilizzanti e prodotti fitosanitari",Basilicata
+FR0134,Ferramenta Verde Mancini & Figli,Attrezzature e materiali da giardinaggio,Campania
+FR0135,Irrigazione Tomaselli S.n.c.,Sistemi di irrigazione,Marche
+FR0136,Utensileria Filangieri S.a.s.,Attrezzature e materiali da giardinaggio,Emilia Romagna
+FR0137,Ferramenta Verde Correr S.a.s.,Attrezzature e materiali da giardinaggio,Emilia Romagna
+FR0138,Attrezzature Garden Paltrinieri S.n.c.,Attrezzature e materiali da giardinaggio,Emilia Romagna
+FR0139,Irrigazione Cusano S.r.l.,Sistemi di irrigazione,Marche
+FR0140,Idroverde Vattimo & Figli,Sistemi di irrigazione,Emilia Romagna
+FR0141,Sistemi Irrigui Turchetta S.n.c.,Sistemi di irrigazione,Trentino Alto Adige
+FR0142,Ferramenta Verde Abate & Figli,Attrezzature e materiali da giardinaggio,Marche
+FR0143,Vivaio Moccia & Figli,Piante da esterno / da giardino,Toscana
+FR0144,Vivaio Staglieno S.p.A.,Piante da esterno / da giardino,Emilia Romagna
+FR0145,Florovivaismo Antonioni S.r.l.,Piante da interno,Trentino Alto Adige
+FR0146,Irrigazione Cardano S.a.s.,Sistemi di irrigazione,Basilicata
+FR0147,Utensileria Orsini S.p.A.,Attrezzature e materiali da giardinaggio,Veneto
+FR0148,Azienda Fitosanitaria Martucci S.p.A.,"Terriccio, fertilizzanti e prodotti fitosanitari",Friuli Venezia Giulia
+FR0149,Sistemi Irrigui Giradello S.n.c.,Sistemi di irrigazione,Basilicata
+FR0150,Agrochimica Bevilacqua S.p.A.,"Terriccio, fertilizzanti e prodotti fitosanitari",Sicilia
+FR0151,Idroverde Giusti S.n.c.,Sistemi di irrigazione,Liguria
+FR0152,Sistemi Irrigui Zola & Figli,Sistemi di irrigazione,Toscana
+FR0153,Floricoltura Bosurgi S.a.s.,Piante da esterno / da giardino,Sicilia
+FR0154,Agrochimica Briccialdi S.n.c.,"Terriccio, fertilizzanti e prodotti fitosanitari",Trentino Alto Adige
+FR0155,Idroverde Speri S.p.A.,Sistemi di irrigazione,Lazio
+FR0156,Sistemi Irrigui Bompiani & Figli,Sistemi di irrigazione,Basilicata
+FR0157,Agrochimica Tutino S.a.s.,"Terriccio, fertilizzanti e prodotti fitosanitari",Campania
+FR0158,Sistemi Irrigui Cavanna & Figli,Sistemi di irrigazione,Calabria
+FR0159,Floricoltura Ceri S.n.c.,Piante da esterno / da giardino,Trentino Alto Adige
+FR0160,Floricoltura Siffredi S.r.l.,Piante da esterno / da giardino,Liguria
+FR0161,Agrochimica Vianello S.r.l.,"Terriccio, fertilizzanti e prodotti fitosanitari",Sardegna
+FR0162,Florovivaismo Deledda S.a.s.,Piante da interno,Piemonte
+FR0163,Floricoltura Iannuzzi S.r.l.,Piante da esterno / da giardino,Piemonte
+FR0164,Vivaio Tron & Figli,Piante da esterno / da giardino,Campania
+FR0165,Ferramenta Verde Ramazzotti S.p.A.,Attrezzature e materiali da giardinaggio,Basilicata
+FR0166,Attrezzature Garden Franscini S.p.A.,Attrezzature e materiali da giardinaggio,Toscana
+FR0167,Agriforniture Vattimo S.r.l.,"Terriccio, fertilizzanti e prodotti fitosanitari",Calabria
+FR0168,Florovivaismo Filzi S.p.A.,Piante da interno,Emilia Romagna
+FR0169,Irrigazione Mazzacurati S.a.s.,Sistemi di irrigazione,Trentino Alto Adige
+FR0170,Azienda Fitosanitaria Piane & Figli,"Terriccio, fertilizzanti e prodotti fitosanitari",Liguria
+FR0171,Ferramenta Verde Palombi S.r.l.,Attrezzature e materiali da giardinaggio,Liguria
+FR0172,Agriforniture Roncalli S.a.s.,"Terriccio, fertilizzanti e prodotti fitosanitari",Sicilia
+FR0173,Vivaio Trapanese S.n.c.,Piante da interno,Veneto
+FR0174,Sistemi Irrigui Salvini S.a.s.,Sistemi di irrigazione,Valle d'Aosta
+FR0175,Garden Center Casini S.p.A.,Piante da esterno / da giardino,Marche
+FR0176,Azienda Fitosanitaria Granatelli S.a.s.,"Terriccio, fertilizzanti e prodotti fitosanitari",Piemonte
+FR0177,Garden Center Gasperi S.n.c.,Piante da esterno / da giardino,Friuli Venezia Giulia
+FR0178,Serra Boccherini & Figli,Piante da interno,Calabria
+FR0179,Irrigazione Moretti S.a.s.,Sistemi di irrigazione,Trentino Alto Adige
+FR0180,Sistemi Irrigui Argentero S.n.c.,Sistemi di irrigazione,Toscana
+FR0181,Serra Visintini S.n.c.,Piante da interno,Piemonte
+FR0182,Utensileria Giammusso S.r.l.,Attrezzature e materiali da giardinaggio,Piemonte
+FR0183,Florovivaismo Galuppi S.p.A.,Piante da interno,Campania
+FR0184,Irrigazione Aldobrandi & Figli,Sistemi di irrigazione,Emilia Romagna
+FR0185,Florovivaismo Bondumier S.a.s.,Piante da interno,Molise
+FR0186,Garden Center Biagiotti S.n.c.,Piante da esterno / da giardino,Toscana
+FR0187,Vivaio Germano S.r.l.,Piante da esterno / da giardino,Sicilia
+FR0188,Florovivaismo Boito S.p.A.,Piante da interno,Basilicata
+FR0189,Vivaio Bajardi & Figli,Piante da esterno / da giardino,Marche
+FR0190,Idroverde Montalcini S.a.s.,Sistemi di irrigazione,Toscana
+FR0191,Ferramenta Verde Bondumier S.p.A.,Attrezzature e materiali da giardinaggio,Marche
+FR0192,Ferramenta Verde Tosi & Figli,Attrezzature e materiali da giardinaggio,Lombardia
+FR0193,Florovivaismo Giolitti S.n.c.,Piante da interno,Puglia
+FR0194,Agrochimica Ligorio & Figli,"Terriccio, fertilizzanti e prodotti fitosanitari",Friuli Venezia Giulia
+FR0195,Agriforniture Spanevello S.n.c.,"Terriccio, fertilizzanti e prodotti fitosanitari",Piemonte
+FR0196,Idroverde Gabba S.r.l.,Sistemi di irrigazione,Sardegna
+FR0197,Florovivaismo Vattimo S.a.s.,Piante da interno,Friuli Venezia Giulia
+FR0198,Idroverde Cherubini & Figli,Sistemi di irrigazione,Campania
+FR0199,Florovivaismo Serraglio & Figli,Piante da interno,Marche
+FR0200,Agriforniture Golino S.n.c.,"Terriccio, fertilizzanti e prodotti fitosanitari",Friuli Venezia Giulia
+FR0201,Agrochimica Serraglio S.n.c.,"Terriccio, fertilizzanti e prodotti fitosanitari",Basilicata
+FR0202,Utensileria Pisaroni S.n.c.,Attrezzature e materiali da giardinaggio,Lombardia
+FR0203,Vivaio Favata S.n.c.,Piante da interno,Piemonte
+FR0204,Irrigazione Caccioppoli S.p.A.,Sistemi di irrigazione,Abruzzo
+FR0205,Garden Center Cagnin S.n.c.,Piante da esterno / da giardino,Basilicata
+FR0206,Vivaio Ricciardi S.p.A.,Piante da esterno / da giardino,Piemonte
+FR0207,Attrezzature Garden Nolcini S.a.s.,Attrezzature e materiali da giardinaggio,Basilicata
+FR0208,Sistemi Irrigui Randazzo S.n.c.,Sistemi di irrigazione,Piemonte
+FR0209,Attrezzature Garden Polani S.r.l.,Attrezzature e materiali da giardinaggio,Valle d'Aosta
+FR0210,Garden Center Schiavone & Figli,Piante da esterno / da giardino,Puglia
+FR0211,Utensileria Bernini & Figli,Attrezzature e materiali da giardinaggio,Liguria
+FR0212,Vivaio Caironi S.p.A.,Piante da interno,Toscana
+FR0213,Idroverde Bignardi S.a.s.,Sistemi di irrigazione,Campania
+FR0214,Attrezzature Garden Pinamonte S.n.c.,Attrezzature e materiali da giardinaggio,Lazio
+FR0215,Idroverde Morlacchi S.n.c.,Sistemi di irrigazione,Lazio
+FR0216,Vivaio Cantimori S.r.l.,Piante da interno,Sicilia
+FR0217,Garden Center Grasso S.n.c.,Piante da esterno / da giardino,Calabria
+FR0218,Utensileria Fermi & Figli,Attrezzature e materiali da giardinaggio,Calabria
+FR0219,Irrigazione Favata & Figli,Sistemi di irrigazione,Marche
+FR0220,Garden Center Valguarnera S.p.A.,Piante da esterno / da giardino,Piemonte
+FR0221,Sistemi Irrigui Sagredo S.r.l.,Sistemi di irrigazione,Lazio
+FR0222,Vivaio Cimarosa S.n.c.,Piante da esterno / da giardino,Abruzzo
+FR0223,Utensileria Querini S.a.s.,Attrezzature e materiali da giardinaggio,Piemonte
+FR0224,Agriforniture Falcone S.p.A.,"Terriccio, fertilizzanti e prodotti fitosanitari",Veneto
+FR0225,Vivaio Ligorio & Figli,Piante da interno,Puglia
+FR0226,Agriforniture Scandone S.n.c.,"Terriccio, fertilizzanti e prodotti fitosanitari",Sardegna
+FR0227,Sistemi Irrigui Greco S.p.A.,Sistemi di irrigazione,Molise
+FR0228,Florovivaismo Borromini S.n.c.,Piante da interno,Trentino Alto Adige
+FR0229,Ferramenta Verde Ruberto S.a.s.,Attrezzature e materiali da giardinaggio,Valle d'Aosta
+FR0230,Vivaio Vigliotti S.n.c.,Piante da esterno / da giardino,Trentino Alto Adige
+FR0231,Vivaio Cainero S.a.s.,Piante da interno,Emilia Romagna
+FR0232,Ferramenta Verde Benussi S.p.A.,Attrezzature e materiali da giardinaggio,Molise
+FR0233,Floricoltura Veltroni S.a.s.,Piante da esterno / da giardino,Marche
+FR0234,Florovivaismo Anguillara S.p.A.,Piante da interno,Umbria
+FR0235,Ferramenta Verde Cabrini & Figli,Attrezzature e materiali da giardinaggio,Veneto
+FR0236,Sistemi Irrigui Ginese S.a.s.,Sistemi di irrigazione,Friuli Venezia Giulia
+FR0237,Irrigazione Dellucci S.p.A.,Sistemi di irrigazione,Friuli Venezia Giulia
+FR0238,Irrigazione Pisano S.a.s.,Sistemi di irrigazione,Molise
+FR0239,Sistemi Irrigui Spanevello S.r.l.,Sistemi di irrigazione,Calabria
+FR0240,Serra Sollima S.a.s.,Piante da interno,Lombardia
+FR0241,Garden Center Fuseli S.n.c.,Piante da esterno / da giardino,Veneto
+FR0242,Florovivaismo Pietrangeli S.a.s.,Piante da interno,Marche
+FR0243,Attrezzature Garden Biagiotti S.p.A.,Attrezzature e materiali da giardinaggio,Puglia
+FR0244,Attrezzature Garden Dandolo S.r.l.,Attrezzature e materiali da giardinaggio,Basilicata
+FR0245,Floricoltura Parini S.n.c.,Piante da esterno / da giardino,Toscana
+FR0246,Azienda Fitosanitaria Accardo & Figli,"Terriccio, fertilizzanti e prodotti fitosanitari",Veneto
+FR0247,Floricoltura Pennetta & Figli,Piante da esterno / da giardino,Piemonte
+FR0248,Azienda Fitosanitaria Impastato & Figli,"Terriccio, fertilizzanti e prodotti fitosanitari",Trentino Alto Adige
+FR0249,Sistemi Irrigui Santorio & Figli,Sistemi di irrigazione,Liguria
+FR0250,Azienda Fitosanitaria Lucchesi & Figli,"Terriccio, fertilizzanti e prodotti fitosanitari",Sicilia
+FR0251,Vivaio Ramazzotti S.r.l.,Piante da esterno / da giardino,Basilicata
+FR0252,Attrezzature Garden Vivaldi S.a.s.,Attrezzature e materiali da giardinaggio,Sardegna
+FR0253,Vivaio Spinelli & Figli,Piante da esterno / da giardino,Valle d'Aosta
+FR0254,Ferramenta Verde Costanzi S.p.A.,Attrezzature e materiali da giardinaggio,Toscana
+FR0255,Idroverde Faugno S.n.c.,Sistemi di irrigazione,Marche
+FR0256,Azienda Fitosanitaria Malenchini S.r.l.,"Terriccio, fertilizzanti e prodotti fitosanitari",Puglia
+FR0257,Idroverde Gaiatto S.p.A.,Sistemi di irrigazione,Lazio
+FR0258,Idroverde Biagi S.r.l.,Sistemi di irrigazione,Basilicata
+FR0259,Attrezzature Garden Veneziano S.a.s.,Attrezzature e materiali da giardinaggio,Toscana
+FR0260,Utensileria Bignardi S.r.l.,Attrezzature e materiali da giardinaggio,Campania
+FR0261,Azienda Fitosanitaria Mazzini & Figli,"Terriccio, fertilizzanti e prodotti fitosanitari",Piemonte
+FR0262,Agrochimica Bettoni S.r.l.,"Terriccio, fertilizzanti e prodotti fitosanitari",Puglia
+FR0263,Serra Benigni S.a.s.,Piante da interno,Lazio
+FR0264,Utensileria Sinisi & Figli,Attrezzature e materiali da giardinaggio,Calabria
+FR0265,Agriforniture Tedesco S.n.c.,"Terriccio, fertilizzanti e prodotti fitosanitari",Umbria
+FR0266,Utensileria Turchi S.a.s.,Attrezzature e materiali da giardinaggio,Campania
+FR0267,Vivaio Cristoforetti S.n.c.,Piante da esterno / da giardino,Piemonte
+FR0268,Utensileria Bettin & Figli,Attrezzature e materiali da giardinaggio,Emilia Romagna
+FR0269,Garden Center Tomasetti S.a.s.,Piante da esterno / da giardino,Puglia
+FR0270,Sistemi Irrigui Botticelli S.r.l.,Sistemi di irrigazione,Basilicata
+FR0271,Garden Center Fantoni & Figli,Piante da esterno / da giardino,Toscana
+FR0272,Idroverde Bombieri S.p.A.,Sistemi di irrigazione,Veneto
+FR0273,Sistemi Irrigui Boldù & Figli,Sistemi di irrigazione,Veneto
+FR0274,Ferramenta Verde Gibilisco S.n.c.,Attrezzature e materiali da giardinaggio,Veneto
+FR0275,Utensileria Pininfarina & Figli,Attrezzature e materiali da giardinaggio,Trentino Alto Adige
+FR0276,Irrigazione Casarin S.n.c.,Sistemi di irrigazione,Valle d'Aosta
+FR0277,Attrezzature Garden Gozzi S.r.l.,Attrezzature e materiali da giardinaggio,Piemonte
+FR0278,Utensileria Barsanti S.r.l.,Attrezzature e materiali da giardinaggio,Sardegna
+FR0279,Idroverde Bragadin S.r.l.,Sistemi di irrigazione,Veneto
+FR0280,Agrochimica Pucci S.a.s.,"Terriccio, fertilizzanti e prodotti fitosanitari",Valle d'Aosta
+FR0281,Garden Center Zetticci S.r.l.,Piante da esterno / da giardino,Valle d'Aosta
+FR0282,Azienda Fitosanitaria Tresoldi S.a.s.,"Terriccio, fertilizzanti e prodotti fitosanitari",Veneto
+FR0283,Azienda Fitosanitaria Mercadante S.p.A.,"Terriccio, fertilizzanti e prodotti fitosanitari",Basilicata
+FR0284,Irrigazione Gulotta S.r.l.,Sistemi di irrigazione,Lazio
+FR0285,Florovivaismo Fittipaldi & Figli,Piante da interno,Sardegna
+FR0286,Floricoltura Mazzocchi S.p.A.,Piante da esterno / da giardino,Sardegna
+FR0287,Irrigazione Giorgetti S.n.c.,Sistemi di irrigazione,Basilicata
+FR0288,Garden Center Impastato S.p.A.,Piante da esterno / da giardino,Umbria
+FR0289,Utensileria Petrassi S.n.c.,Attrezzature e materiali da giardinaggio,Trentino Alto Adige
+FR0290,Agrochimica Chechi S.p.A.,"Terriccio, fertilizzanti e prodotti fitosanitari",Sicilia
+FR0291,Idroverde Mantegazza S.a.s.,Sistemi di irrigazione,Piemonte
+FR0292,Utensileria Saragat S.n.c.,Attrezzature e materiali da giardinaggio,Lazio
+FR0293,Floricoltura Mercadante S.a.s.,Piante da esterno / da giardino,Marche
+FR0294,Floricoltura Bonolis & Figli,Piante da esterno / da giardino,Lazio
+FR0295,Agrochimica Aloisio S.n.c.,"Terriccio, fertilizzanti e prodotti fitosanitari",Piemonte
+FR0296,Irrigazione Satta & Figli,Sistemi di irrigazione,Marche
+FR0297,Serra Zanzi S.a.s.,Piante da interno,Puglia
+FR0298,Agrochimica Calgari S.p.A.,"Terriccio, fertilizzanti e prodotti fitosanitari",Marche
+FR0299,Florovivaismo Borghese S.r.l.,Piante da interno,Piemonte
+FR0300,Agriforniture Vanvitelli & Figli,"Terriccio, fertilizzanti e prodotti fitosanitari",Toscana
+FR0301,Vivaio Fusani S.a.s.,Piante da esterno / da giardino,Lombardia
+FR0302,Irrigazione Tognazzi & Figli,Sistemi di irrigazione,Emilia Romagna
+FR0303,Serra Impastato S.a.s.,Piante da interno,Liguria
+FR0304,Vivaio Chiappetta S.a.s.,Piante da esterno / da giardino,Liguria
+FR0305,Vivaio Navone S.r.l.,Piante da esterno / da giardino,Sardegna
+FR0306,Utensileria Bombieri S.n.c.,Attrezzature e materiali da giardinaggio,Campania
+FR0307,Vivaio Gottardi S.a.s.,Piante da esterno / da giardino,Friuli Venezia Giulia
+FR0308,Agriforniture Pacomio S.n.c.,"Terriccio, fertilizzanti e prodotti fitosanitari",Toscana
+FR0309,Floricoltura Lucarelli & Figli,Piante da esterno / da giardino,Marche
+FR0310,Vivaio Cuda S.a.s.,Piante da interno,Liguria
+FR0311,Irrigazione Roncalli S.r.l.,Sistemi di irrigazione,Friuli Venezia Giulia
+FR0312,Azienda Fitosanitaria Vento S.r.l.,"Terriccio, fertilizzanti e prodotti fitosanitari",Puglia
+FR0313,Azienda Fitosanitaria Marazzi & Figli,"Terriccio, fertilizzanti e prodotti fitosanitari",Basilicata
+FR0314,Florovivaismo Trupiano S.a.s.,Piante da interno,Veneto
+FR0315,Florovivaismo Alfonsi & Figli,Piante da interno,Sicilia
+FR0316,Irrigazione Vismara S.n.c.,Sistemi di irrigazione,Emilia Romagna
+FR0317,Idroverde Manolesso & Figli,Sistemi di irrigazione,Lazio
+FR0318,Florovivaismo Cammarata S.p.A.,Piante da interno,Sicilia
+FR0319,Utensileria Chindamo S.p.A.,Attrezzature e materiali da giardinaggio,Abruzzo
+FR0320,Attrezzature Garden Iannucci S.a.s.,Attrezzature e materiali da giardinaggio,Lazio
+FR0321,Garden Center Carpaccio S.n.c.,Piante da esterno / da giardino,Sardegna
+FR0322,Idroverde Canevascini S.r.l.,Sistemi di irrigazione,Puglia
+FR0323,Vivaio Visconti S.p.A.,Piante da interno,Toscana
+FR0324,Ferramenta Verde Cremonesi S.r.l.,Attrezzature e materiali da giardinaggio,Lombardia
+FR0325,Azienda Fitosanitaria Lanfranchi S.n.c.,"Terriccio, fertilizzanti e prodotti fitosanitari",Lombardia
+FR0326,Attrezzature Garden Lombardo S.a.s.,Attrezzature e materiali da giardinaggio,Valle d'Aosta
+FR0327,Florovivaismo Fracci & Figli,Piante da interno,Liguria
+FR0328,Serra Mozart S.r.l.,Piante da interno,Sicilia
+FR0329,Ferramenta Verde Fiorucci S.n.c.,Attrezzature e materiali da giardinaggio,Trentino Alto Adige
+FR0330,Utensileria Iannotti S.r.l.,Attrezzature e materiali da giardinaggio,Marche
+FR0331,Utensileria Togliatti S.p.A.,Attrezzature e materiali da giardinaggio,Liguria
+FR0332,Floricoltura Staglieno S.p.A.,Piante da esterno / da giardino,Sicilia
+FR0333,Idroverde Gregorio S.n.c.,Sistemi di irrigazione,Umbria
+FR0334,Agriforniture Berengario S.p.A.,"Terriccio, fertilizzanti e prodotti fitosanitari",Liguria
+FR0335,Sistemi Irrigui Cabibbo S.a.s.,Sistemi di irrigazione,Sicilia
+FR0336,Irrigazione Randazzo & Figli,Sistemi di irrigazione,Calabria
+FR0337,Sistemi Irrigui Lercari S.r.l.,Sistemi di irrigazione,Umbria
+FR0338,Sistemi Irrigui Battisti S.a.s.,Sistemi di irrigazione,Umbria
+FR0339,Vivaio Agazzi & Figli,Piante da esterno / da giardino,Trentino Alto Adige
+FR0340,Azienda Fitosanitaria Montesano S.p.A.,"Terriccio, fertilizzanti e prodotti fitosanitari",Valle d'Aosta
+FR0341,Azienda Fitosanitaria Ceschi S.a.s.,"Terriccio, fertilizzanti e prodotti fitosanitari",Sicilia
+FR0342,Florovivaismo Iacobucci S.p.A.,Piante da interno,Trentino Alto Adige
+FR0343,Agrochimica Cusano S.a.s.,"Terriccio, fertilizzanti e prodotti fitosanitari",Basilicata
+FR0344,Idroverde Rossini & Figli,Sistemi di irrigazione,Abruzzo
+FR0345,Agrochimica Villadicani S.r.l.,"Terriccio, fertilizzanti e prodotti fitosanitari",Lazio
+FR0346,Sistemi Irrigui Renier S.r.l.,Sistemi di irrigazione,Sardegna
+FR0347,Utensileria Zamengo S.r.l.,Attrezzature e materiali da giardinaggio,Umbria
+FR0348,Vivaio Aloisio S.n.c.,Piante da interno,Basilicata
+FR0349,Attrezzature Garden Cardano S.p.A.,Attrezzature e materiali da giardinaggio,Emilia Romagna
+FR0350,Agrochimica Borromini S.n.c.,"Terriccio, fertilizzanti e prodotti fitosanitari",Sicilia
