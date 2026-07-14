@@ -19,6 +19,36 @@ pw21_Ferronato/
 └── database/warehouse.db   # data warehouse SQLite (generato dall'ETL)
 ```
 
+## Avvertenza
+Per evitare conflitti ed eseguire il programma in un ambiente sicuro si consiglia fortemente di installare le librerie ed eseguire gli script all'interno di un virtual environment.
+
+Procedura:
+
+**Creazione del virtual environment**
+```bash
+python -m venv .venv
+```
+
+**Attivazione — Windows (CMD)**
+```bash
+.venv\Scripts\activate.bat
+```
+
+**Attivazione — Windows (PowerShell)**
+```bash
+.venv\Scripts\Activate.ps1
+```
+
+**Attivazione — Linux / macOS**
+```bash
+source .venv/bin/activate
+```
+
+**Disattivazione (tutte le piattaforme)**
+```bash
+deactivate
+```
+
 ## Requisiti
 
 - Python 3.10+
