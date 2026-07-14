@@ -202,7 +202,7 @@ def genera_operatori():
 # Generazione di un datetime con distribuzione realistica:
 # più richieste nei giorni feriali e nelle fasce di punta (mattina/sera).
 def genera_datetime_realistica():
-    # Lun-Ven peso 3, Sab-Dom peso 1
+    # Lun-Ven peso 3, Sab peso 1 Dom peso 0
     giorno_settimana = random.choices(range(7), weights=[3, 3, 3, 3, 3, 1, 0])[0]
 
     # Fasce orarie: picco mattina (8-10) e sera (17-19)
@@ -242,7 +242,7 @@ def genera_stato_e_tempo(tipo_attivita):
     return stato, tempo
 
 
-# Generazione delle richieste (orchestrazione per zona).
+# Generazione delle richieste.
 # Ordine: si sceglie prima il CLIENTE, poi un OPERATORE della sua stessa zona e,
 # INDIPENDENTEMENTE, un FORNITORE locale (stessa zona: approvvigionamento a km
 # zero) i cui materiali siano tematicamente coerenti col servizio.
@@ -287,9 +287,7 @@ def genera_richieste(clienti, operatori, fornitori):
             "stato":            stato
         })
 
-    # Sporcatura volontaria dei dati (per dare all'ETL qualcosa da correggere).
-    # NB: la coerenza di zona è mantenuta piena (nessuna incoerenza geografica).
-
+    # Sporcatura volontaria dei dati.
     # Incoerenza di maiuscole nello stato
     for r in random.sample(richieste, 12):
         r["stato"] = r["stato"].upper()
