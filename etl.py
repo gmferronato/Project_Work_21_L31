@@ -51,7 +51,7 @@ def crea_database(conn):
         "mese INT NOT NULL,"\
         "giorno INT NOT NULL,"\
         "giorno_settimana TEXT NOT NULL,"\
-        "è_weekend INT NOT NULL);")
+        "weekend INT NOT NULL);")
  
     # richieste
     conn.execute("CREATE TABLE IF NOT EXISTS richieste (" \
@@ -142,7 +142,7 @@ def popola_tabelle(conn):
             "mese":             date_distinte.month,
             "giorno":           date_distinte.day,
             "giorno_settimana": date_distinte.weekday.map(giorni_it),
-            "è_weekend":        (date_distinte.weekday >= 5).astype(int),
+            "weekend":        (date_distinte.weekday >= 5).astype(int),
         })
  
         # Popolamento delle tabelle tempo e richieste.
