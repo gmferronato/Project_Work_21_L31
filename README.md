@@ -53,6 +53,7 @@ deactivate
 
 - Python 3.10+
 - Librerie: `pandas`, `streamlit`, `plotly`, `faker`
+- Spazio su disco: ~400 MB per il virtual environment con le librerie installate
 
 Le librerie possono essere installate in uno dei seguenti modi:
 
