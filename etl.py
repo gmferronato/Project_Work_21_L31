@@ -12,9 +12,6 @@ import pandas as pd
 # creazione delle tabelle del database
 def crea_database(conn): 
 
-    # Disabilita temporaneamente i vincoli per poter eliminare in qualsiasi ordine
-    # conn.execute("PRAGMA foreign_keys = OFF")
-
     # Ottieni la lista di tutte le tabelle
     tabelle = conn.execute("SELECT name FROM sqlite_master WHERE type='table'").fetchall()
 
@@ -25,49 +22,59 @@ def crea_database(conn):
     conn.execute("PRAGMA foreign_keys = ON")
     
     # clienti
-    conn.execute("CREATE TABLE IF NOT EXISTS clienti (" \
-        "id_cliente TEXT PRIMARY KEY," \
-        "zona TEXT NOT NULL," \
-        "data_iscrizione TEXT NOT NULL);")
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS clienti (
+            id_cliente TEXT PRIMARY KEY,
+            zona TEXT NOT NULL,
+            data_iscrizione TEXT NOT NULL);
+        """)
  
     # fornitori
-    conn.execute("CREATE TABLE IF NOT EXISTS fornitori (" \
-        "id_fornitore TEXT PRIMARY KEY," \
-        "nome TEXT NOT NULL," \
-        "categoria_fornitura TEXT NOT NULL," \
-        "zona TEXT NOT NULL);")
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS fornitori (
+            id_fornitore TEXT PRIMARY KEY,
+            nome TEXT NOT NULL,
+            categoria_fornitura TEXT NOT NULL,
+            zona TEXT NOT NULL);
+        """)
  
     # operatori
-    conn.execute("CREATE TABLE IF NOT EXISTS operatori (" \
-        "id_operatore TEXT PRIMARY KEY," \
-        "zona TEXT NOT NULL," \
-        "tipo_attivita TEXT NOT NULL);")
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS operatori (
+            id_operatore TEXT PRIMARY KEY,
+            zona TEXT NOT NULL,
+            tipo_attivita TEXT NOT NULL);
+        """)
  
     # tempo
-    conn.execute("CREATE TABLE IF NOT EXISTS tempo ("
-        "sk_tempo INTEGER PRIMARY KEY,"\
-        "data TEXT NOT NULL,"\
-        "anno INT NOT NULL,"\
-        "mese INT NOT NULL,"\
-        "giorno INT NOT NULL,"\
-        "giorno_settimana TEXT NOT NULL,"\
-        "weekend INT NOT NULL);")
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS tempo (
+            sk_tempo INTEGER PRIMARY KEY,
+            data TEXT NOT NULL,
+            anno INT NOT NULL,
+            mese INT NOT NULL,
+            giorno INT NOT NULL,
+            giorno_settimana TEXT NOT NULL,
+            weekend INT NOT NULL);
+        """)
  
     # richieste
-    conn.execute("CREATE TABLE IF NOT EXISTS richieste (" \
-        "id_richiesta TEXT PRIMARY KEY," \
-        "id_cliente TEXT NOT NULL," \
-        "id_fornitore TEXT NOT NULL," \
-        "id_operatore TEXT NOT NULL," \
-        "data_e_ora TEXT NOT NULL," \
-        "importo FLOAT DEFAULT 0," \
-        "sk_tempo INTEGER NOT NULL," \
-        "tempo_erogazione INT DEFAULT 0," \
-        "stato TEXT NOT NULL," \
-        "FOREIGN KEY (id_cliente)   REFERENCES clienti(id_cliente)," \
-        "FOREIGN KEY (id_fornitore) REFERENCES fornitori(id_fornitore)," \
-        "FOREIGN KEY (sk_tempo)     REFERENCES tempo(sk_tempo)," \
-        "FOREIGN KEY (id_operatore) REFERENCES operatori(id_operatore));")
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS richieste (
+            id_richiesta TEXT PRIMARY KEY,
+            id_cliente TEXT NOT NULL,
+            id_fornitore TEXT NOT NULL,
+            id_operatore TEXT NOT NULL,
+            data_e_ora TEXT NOT NULL,
+            importo FLOAT DEFAULT 0,
+            sk_tempo INTEGER NOT NULL,
+            tempo_erogazione INT DEFAULT 0,
+            stato TEXT NOT NULL,
+            FOREIGN KEY (id_cliente)   REFERENCES clienti(id_cliente),
+            FOREIGN KEY (id_fornitore) REFERENCES fornitori(id_fornitore),
+            FOREIGN KEY (sk_tempo)     REFERENCES tempo(sk_tempo),
+            FOREIGN KEY (id_operatore) REFERENCES operatori(id_operatore));
+        """)
  
     print("Tutte le tabelle sono state generate correttamente.")
 
@@ -93,11 +100,7 @@ def pulisci_dataframe(df):
     # Conversione importo da virgola decimale a punto
     if "importo" in df.columns:
         
-        df["importo"] = (df["importo"]
-                                .astype(str)
-                                .str.replace(",", ".", regex=False)
-                                .astype(float).round(2))
-
+        df["importo"] = (df["importo"].astype(str).str.replace(",", ".", regex=False).astype(float).round(2))
 
     # Rimozione duplicati
     df = df.drop_duplicates()
