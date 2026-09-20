@@ -4,8 +4,6 @@ import sqlite3
 import plotly.express as px
 import etl
 
-"""Indicatori principali in evidenza: numero totale di richieste, incassi,
-tempo medio di erogazione, clienti attivi/returning."""
 
 # Setting della pagina
 st.set_page_config(

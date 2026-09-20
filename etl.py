@@ -13,7 +13,8 @@ import pandas as pd
 def crea_database(conn): 
 
     # Ottieni la lista di tutte le tabelle
-    tabelle = conn.execute("SELECT name FROM sqlite_master WHERE type='table'").fetchall()
+    tabelle = conn.execute("SELECT name FROM sqlite_master " \
+    "WHERE type='table'").fetchall()
 
     # Elimina ogni tabella
     for (nome,) in tabelle:
